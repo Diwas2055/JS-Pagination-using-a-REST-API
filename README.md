@@ -1,0 +1,1 @@
+[Pagination in Vanilla JavaScript using a REST API](https://github.com/desoga10/js-pagination)
